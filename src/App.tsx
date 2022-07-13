@@ -1,11 +1,12 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import MuiTypography from './Components/MuiTypography';
 
 function App() {
   return (
     <div className="App">
-     mui tut
+     <MuiTypography/>
     </div>
   );
 }
